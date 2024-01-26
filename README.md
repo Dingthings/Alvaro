@@ -1,4 +1,6 @@
 # Alvaro
+ Forked DingThings version, changes to QFP Atmega32u4
+ 
  Pro Micro-compatible 32u4 Breakout Board
 
 ## Disclaimer
